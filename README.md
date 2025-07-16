@@ -13,7 +13,6 @@ Proyecto desarrollado como trabajo final para una unidad académica en la univer
 
 - HTML  
 - CSS  
-- JavaScript
 
 ## 📂 Estructura del proyecto
 
